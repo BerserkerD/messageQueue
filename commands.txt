@@ -1,0 +1,19 @@
+mvn clean
+mvn compile
+
+/*启动异步接收器，订阅某个主题的消息*/
+mvn exec:java -Dexec.mainClass="AnalysisConsumer"
+
+mvn exec:java -Dexec.mainClass="ResultConsumer"
+
+/*启动一个新的设备，采集数据并发送数据*/
+mvn exec:java -Dexec.mainClass="Device"
+
+/*通过http://127.0.0.1:8161/admin/topics.jsp控制台观察 是否有名为“TOPIC”的主题被创建，是否缓存了消息 */
+
+
+
+
+
+
+
