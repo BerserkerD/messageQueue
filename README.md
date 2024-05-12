@@ -1,5 +1,5 @@
 # 设计结构图
-![image](https://github.com/BerserkerD/messageQueue/assets/162690240/230edbde-8563-4c5a-b6fa-088a0c97f309)
+![image](https://github.com/BerserkerD/messageQueue/assets/162690240/b4cb7e10-41ab-42b8-bdfe-54ff2613f219)
 
 # 实验结果
 ![image](https://github.com/BerserkerD/messageQueue/assets/162690240/7a1ff7a7-a259-4744-a5e8-4036b4387c41)
